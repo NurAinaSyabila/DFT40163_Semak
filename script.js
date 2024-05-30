@@ -11,7 +11,7 @@ $(document).ready(function(){
          else if (nokp.length !== 12){
             alert("Sila isi nokp dengan 12 number");
          }
-         else if (nomatric.lenght !== 12){
+         else if (nomatric.length !== 12){
             alert("Sila isi nomatric dengan 12 number");
          }
          else 
