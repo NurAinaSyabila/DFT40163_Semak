@@ -1,0 +1,91 @@
+.body {
+    margin: auto;
+    padding: auto;
+    background-color: palevioletred;
+    text-align: center;
+    align-content: center;
+
+}
+
+.myTable {
+    margin: auto;
+}
+
+.myTable td {
+    border-radius: auto;
+    border-style: groove;
+    box-sizing: border-box;
+    align-content: center;
+    text-align: center;
+    width: 200px;
+    padding: 30px;
+}
+
+.link1 {
+    color: white
+}
+
+.box1 {
+    background-color: rgb(31, 91, 31);
+}
+
+.link2 {
+    color: rgb(31, 91, 31);
+}
+
+.box2 {
+    background-color: white;
+}
+
+.Table {
+    margin: auto;
+}
+
+.Table td,
+.Table th {
+
+    width: 200px;
+    padding: 30px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: auto;
+
+}
+
+.Table1 {
+    margin: auto
+}
+
+.Table1 td,
+.Table1 th {
+
+    align-content: center;
+    width: 200px;
+    padding: 30px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: auto;
+
+}
+
+.img {
+    width: 350px;
+    height: 450px;
+}
+
+.footer {
+    margin-top: 100px;
+}
+
+.form {
+    width: 600px;
+    padding: 30px;
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 3px;
+    margin: auto;
+}
+.address{
+    width: 200px;
+    height: 100px;
+}
